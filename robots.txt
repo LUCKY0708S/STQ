@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lucky0708s.github.io/STQ/sitemap.xml
