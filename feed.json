@@ -5,7 +5,7 @@
     "home_page_url": "https://lucky0708s.github.io/STQ",
     "feed_url": "https://lucky0708s.github.io/STQ/feed.json",
     "user_comment": "",
-    "icon": "https://lucky0708s.github.io/STQ/media/website/Tu-Pian-8.png",
+    "icon": "https://lucky0708s.github.io/STQ/media/website/Tu-Pian-9.png",
     "author": {
         "name": "宋恬琪"
     },
@@ -14,7 +14,9 @@
             "id": "https://lucky0708s.github.io/STQ/shi-chang-zheng-ce-xiang-guan-wen-zhang.html",
             "url": "https://lucky0708s.github.io/STQ/shi-chang-zheng-ce-xiang-guan-wen-zhang.html",
             "title": "市场政策相关文章",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lucky0708s.github.io/STQ/media/posts/1/4.jpg\" alt=\"\" width=\"226\" height=\"2981\" sizes=\"100vw\" srcset=\"https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-xs.jpg 300w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-sm.jpg 480w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-md.jpg 768w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-lg.jpg 1024w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-xl.jpg 1360w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-2xl.jpg 1600w\"></figure>",
+            "summary": "响应新政策，助力县级综合医院设备升级",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lucky0708s.github.io/STQ/media/posts/1/4.jpg\" alt=\"\" width=\"226\" height=\"2981\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-xs.jpg 320w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-sm.jpg 480w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-md.jpg 768w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-xl.jpg 1024w\"></figure>\n<p>响应新政策，助力县级综合医院设备升级</p>",
+            "image": "https://lucky0708s.github.io/STQ/media/posts/1/42.png",
             "author": {
                 "name": "宋恬琪"
             },
@@ -22,7 +24,7 @@
                    "产品描述"
             ],
             "date_published": "2024-01-22T18:39:00+08:00",
-            "date_modified": "2024-06-17T21:31:36+08:00"
+            "date_modified": "2024-06-18T01:23:17+08:00"
         }
     ]
 }

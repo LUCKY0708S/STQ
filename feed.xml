@@ -3,7 +3,7 @@
     <title>宋恬琪的项目经历</title>
     <link href="https://lucky0708s.github.io/STQ/feed.xml" rel="self" />
     <link href="https://lucky0708s.github.io/STQ" />
-    <updated>2024-06-17T21:31:36+08:00</updated>
+    <updated>2024-06-18T01:23:17+08:00</updated>
     <author>
         <name>宋恬琪</name>
     </author>
@@ -16,13 +16,21 @@
         </author>
         <link href="https://lucky0708s.github.io/STQ/shi-chang-zheng-ce-xiang-guan-wen-zhang.html"/>
         <id>https://lucky0708s.github.io/STQ/shi-chang-zheng-ce-xiang-guan-wen-zhang.html</id>
+        <media:content url="https://lucky0708s.github.io/STQ/media/posts/1/42.png" medium="image" />
             <category term="产品描述"/>
 
         <updated>2024-01-22T18:39:00+08:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://lucky0708s.github.io/STQ/media/posts/1/42.png" alt="" />
+                    响应新政策，助力县级综合医院设备升级
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://lucky0708s.github.io/STQ/media/posts/1/4.jpg" alt="" width="226" height="2981" sizes="100vw" srcset="https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-xs.jpg 300w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-sm.jpg 480w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-md.jpg 768w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-lg.jpg 1024w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-xl.jpg 1360w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-2xl.jpg 1600w"></figure>
+                    <p><img src="https://lucky0708s.github.io/STQ/media/posts/1/42.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://lucky0708s.github.io/STQ/media/posts/1/4.jpg" alt="" width="226" height="2981" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-xs.jpg 320w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-sm.jpg 480w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-md.jpg 768w ,https://lucky0708s.github.io/STQ/media/posts/1/responsive/4-xl.jpg 1024w"></figure>
+<p>响应新政策，助力县级综合医院设备升级</p>
             ]]>
         </content>
     </entry>
